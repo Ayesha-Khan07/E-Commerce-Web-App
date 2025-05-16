@@ -10,9 +10,9 @@ Developed a full-stack E-Commerce web application that allows users to browse pr
 3. Run this command:   
     npm start   
    you will see this message on terminal:   "Server is running on http://localhost:5000"
-4. Now in second terminal come back from backend folder by typing command:
+4. Now in second terminal come back from backend folder by typing command:   
      cd..   
-5. Run this command on 2nd terminal:
+5. Run this command on 2nd terminal:    
     npm start    
     you will see this message on 2nd terminal:  "http://localhost:3000"   
 Now your project will be sucessfully run on localhost port 3000. 
