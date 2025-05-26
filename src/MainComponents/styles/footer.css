@@ -1,0 +1,15 @@
+.footer {
+    background-color: rgba(5, 5, 82, 0.566);
+    background: linear-gradient(to right, #3c95ee, #579de4); 
+    color: #ffffff;
+  }
+  
+  .footer a {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer a:hover {
+    color: #f1c40f;
+    text-decoration: underline;
+  }
+  

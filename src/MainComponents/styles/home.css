@@ -1,0 +1,71 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo-img{  
+    height:50px;
+    width: 55px;
+    border-radius: 100px;   
+}
+
+#brand-name{
+    font-weight: bolder;
+    font-size: larger;  
+}
+
+#cat, #search, #abt, #contact-us, #faq-nav {
+    color: #000;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease; 
+}
+
+#cat:hover, #search:hover, #abt:hover, #contact-us:hover, #faq-nav:hover {
+    color: #716e6e; 
+    text-decoration: underline; 
+}
+
+.bg-img-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: px;
+    color:white;
+    font-weight: bold;
+}
+
+section{
+    padding: 60px 0;
+  }
+
+.btn-mustard {
+    background-color: #f5c61d; /* Mustard color */
+    color: #000; /* Black text for contrast */
+    border: none;
+    font-size: large;
+}
+
+.btn-mustard:hover {
+    background-color: #f6b30a; /* Slightly darker mustard on hover */
+    color: #716e6e; 
+}
+
+.products-category{
+    margin-top: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 34px;
+
+}
+
+.product-cat-line{
+  color:rgb(83, 78, 78);
+  text-align: center;  
+  font-size: 20px;
+}
+
+.product-cat-description{
+    color:rgb(147, 140, 140);
+    text-align: center;  
+    font-size: 20px;
+  }
+
+
