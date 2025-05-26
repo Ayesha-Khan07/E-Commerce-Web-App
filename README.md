@@ -17,3 +17,5 @@ Developed a full-stack E-Commerce web application that allows users to browse pr
     you will see this message on 2nd terminal:  "http://localhost:3000"   
 Now your project will be sucessfully run on localhost port 3000. 
 
+
+# Src -> frontend folder
